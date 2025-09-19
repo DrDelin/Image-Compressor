@@ -14,3 +14,7 @@
     5. Compressed image will stored at the site of original image.
     6. Exit the program.
   
+## TOOLS USED:
+    1. Scripting: Python
+    2. Compressor: FFMPEG.exe
+    3. EXE Builder: pyinstaller
