@@ -1,0 +1,12 @@
+Requirements:
+    1. "Image Compressor.py" Python Script
+    2. Latest "fmpeg.exe" binary
+    3. "pyinstaller" python binary for building exe file
+
+Codes: (powershell or CMD)
+
+    I. Install pyinstaller:
+        pip install pyinstaller
+
+    II. Building exe file:
+        pyinstaller --onefile --add-binary "ffmpeg.exe;." "Image Compressor.py"
