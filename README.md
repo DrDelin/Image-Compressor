@@ -6,14 +6,14 @@
   Owner and Developer: Dr.Delin
 
 ## Usage:
-    1. Run the "Image_compressor.exe" file.
-    2. Type the size you want to compress (in KBs)(1 - 1024).
-    3. Select the desired image to compress.
-    4. Program will compress to the desired size.
-    5. Compressed image will stored at the site of original image.
-    6. Exit the program.
+   1. Run the "Image_compressor.exe" file.
+   2. Type the size you want to compress (1 - 1024)(in KBs).
+   3. Select the desired image to compress.
+   4. Program will compress to the desired size.
+   5. Compressed image will stored at the site of original image.
+   6. Exit the program.
   
 ## TOOLS USED:
-    1. Scripting: Python
-    2. Compressor: FFMPEG.exe
-    3. EXE Builder: pyinstaller
+   1. Scripting: Python
+   2. Compressor: FFMPEG.exe
+   3. EXE Builder: pyinstaller
