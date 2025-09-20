@@ -16,7 +16,7 @@ def resource_path(relative_path):
     return os.path.join(os.path.abspath("."), relative_path)
 
 ffmpeg_path = resource_path("ffmpeg.exe")
-
+print("IMAGE COMPRESSOR V2.0\n\nEnter the Compression Size.....\n\n")
 ###USER INPUT GUI
 def get_user_input():
     def on_enter():
@@ -91,12 +91,12 @@ if __name__ == "__main__":
         input("User cancelled the program!!")
         exit()
 
-
+print(f"Compressed Image output size: {str(number)} {option}\n\nSelect the image to compress....\n\n")
 #Source and Output Directory:
 root = tk.Tk()
 root.withdraw()
 root.attributes('-topmost', True)
-inp_path = filedialog.askopenfilename(title="Select a file")
+inp_path = filedialog.askopenfilename(title="Select the Image to Compress")
 src_path = Path(inp_path)
 
 #Size Comparision:
