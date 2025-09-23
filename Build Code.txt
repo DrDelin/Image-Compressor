@@ -9,4 +9,4 @@ Codes: (powershell or CMD)
         pip install pyinstaller
 
     II. Building exe file:
-        pyinstaller --onefile --add-binary "ffmpeg.exe;." "Image Compressor.py"
+        pyinstaller --noconsole --onefile --add-binary "ffmpeg.exe;." "Image Compressor.py"

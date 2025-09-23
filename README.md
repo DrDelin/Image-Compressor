@@ -10,15 +10,16 @@
     
 ## Usage:
    1. Run the "Image_compressor Ver x.x.exe" file.
-   2. Type the size you want to compress in the window.
-   3. Select KB/MB (KB by default).
-   4. Next select the image file want to compress.
-   5. Program will compress to the desired size.
-   6. Compressed image will stored at the site of original image.
-   7. Exit the program.
+   2. Select the image file to compress.
+   3. Make sure the image is correct.
+   4. Type the size you want to compress (1 - 1024)(only Numbers).
+   5. Select KB/MB (KB by default).
+   6. Program will compress to the desired size.
+   7. Compressed image will stored at the site of original image.
+   8. Exit the program.
   
 ## TOOLS USED:
    1. Scripting: Python
-   2. GUI: TKinter library
+   2. GUI: Kivy & TKinter library
    3. Image Compressor: FFMPEG.exe
    4. EXE Builder: pyinstaller
