@@ -5,7 +5,8 @@
   Owner and Developer: Dr.Delin
 
 ## Download:
-  * Direct Download Link: https://github.com/DrDelin/Image-Compressor/releases/download/v.2.0/Image.Compressor.V2.0.exe  (RECOMMENDED)
+  * Direct Download Link: https://github.com/DrDelin/Image-Compressor/releases/download/v.3.0/Image.Compressor.v3.0.exe (RECOMMENDED)
+  * Direct Download Link: https://github.com/DrDelin/Image-Compressor/releases/download/v.2.0/Image.Compressor.V2.0.exe  (LITE VERSION)
   * For current and Old releases: https://github.com/DrDelin/Image-Compressor/releases
     
 ## Usage:
